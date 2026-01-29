@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/01-Core/">
+    <Project Path="src/01-Core/ApplicationServices/ApplicationServices.csproj" Id="033a80da-f865-405e-bb6a-ec6eecc363e5" />
+    <Project Path="src/01-Core/DomainModels/DomainModels.csproj" Id="8bf8ba0c-9275-4a11-b9f8-550d254c0631" />
+    <Project Path="src/01-Core/DomainServices/DomainServices.csproj" Id="b5b20133-2f50-418e-9989-17ce3c714f99" />
+  </Folder>
+  <Folder Name="/src/02-Infrastructure/">
+    <Project Path="src/02-Infrastructure/DomainPractice/DomainPractice.csproj" Id="ae66d118-c8b8-4a26-82f2-17c3576dfbfe" />
+  </Folder>
+  <Folder Name="/src/03-Applications/">
+    <Project Path="src/03-Applications/App.Api/App.Api.csproj" Id="68352e42-c4eb-4720-9cc6-ae4c233cf5e8" />
+    <Project Path="src/03-Applications/App.Shared/App.Shared.csproj" Id="0c844a25-ecfb-4737-a3e4-a5297866f2bd" />
+    <Project Path="src/03-Applications/App.Web/App.Web.csproj" Id="0eee3416-c26f-4de0-a9f8-3b126f0066f6" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
